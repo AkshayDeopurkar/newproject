@@ -2,7 +2,7 @@
 
 newproject
 
-1) git clone https://github.com/anantgehi/newproject.git
+1) git clone https://github.com/"username"/newproject.git #username of github
 2) cd newproject
 3) make changes in files
 4) git add .
