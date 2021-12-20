@@ -11,10 +11,10 @@ Hometown : Virar,Maharashtra
 Mobile Number : 7276475430
 
 3. Aman Gangwar
-  Computer Science And Engineering
-  2020 
-  Hometown : FarrukhaBad , UP
-  Mobile Number: 7068398252
+Computer Science And Engineering
+2020 
+Hometown : FarrukhaBad , UP
+Mobile Number: 7068398252
 
 4. Roshan Rane
 B.E. Mechanical
@@ -22,8 +22,15 @@ B.E. Mechanical
 Hometown: Neral, Maharashtra
 Mobile No: 7775997591
 
-5. Deepanshu Rautela
+5. Vinit Sawant 
+B.E ECE
+2019 passout
+HomeTown: Dombivli,Kalyan,Mahrashtra.
+Mobile No: 9167567495.
+
+6. Deepanshu Rautela
 B.E. Computer Science
 2020 Passout
 Hometown: Lansdowne, Uttrakhand
 Mobile Number: 123456789
+
